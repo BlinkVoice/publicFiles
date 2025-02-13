@@ -13,7 +13,8 @@
       "Always on Top",
       "Search in Messaging",
       "Add Contact and Edit Contact",
-      "Copy Text Messages"
+      "Copy Text Messages",
+       "DND"
     ],
     "feature_in_progress": [
       "Enter to Call",
