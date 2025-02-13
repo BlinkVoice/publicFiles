@@ -1,0 +1,24 @@
+{
+    "updates": [
+      "Create Group Chat",
+      "Update Group Chat",
+      "Updated Avatar UI",
+      "Call from Group Chat"
+    ],
+    "features": [
+      "Enter to Call",
+      "Copy Paste with right click",
+      "Ability to Call with Regex",
+      "Resize the application",
+      "Always on Top",
+      "Search in Messaging",
+      "Add Contact and Edit Contact",
+      "Copy Text Messages"
+    ],
+    "feature_in_progress": [
+      "Enter to Call",
+      "Ability to Call with Regex",
+      "Resize the application"
+    ]
+  }
+  
