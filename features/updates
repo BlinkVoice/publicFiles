@@ -3,12 +3,12 @@
       "Create Group Chat",
       "Update Group Chat",
       "Updated Avatar UI",
-      "Call from Group Chat"
+      "Call from Group Chat",
+      "Ability to Call with Regex"
     ],
     "features": [
       "Enter to Call",
       "Copy Paste with right click",
-      "Ability to Call with Regex",
       "Resize the application",
       "Always on Top",
       "Search in Messaging",
