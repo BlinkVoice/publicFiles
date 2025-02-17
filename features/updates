@@ -3,22 +3,36 @@
       "Create Group Chat",
       "Update Group Chat",
       "Updated Avatar UI",
-      "Call from Group Chat",
-      "Ability to Call with Regex"
+      "Call from Group Chat"
+      
     ],
     "features": [
       "Enter to Call",
+      "Ability to Call with Regex",
       "Copy Paste with right click",
       "Resize the application",
       "Always on Top",
+      "Change ringer Volume Separately",
       "Search in Messaging",
+      "Multiple Selection in Messages",
       "Add Contact and Edit Contact",
       "Copy Text Messages",
-       "DND"
+      "Ignore Call in Notification",
+      "DND in App",
+      "Google Meet Issue",
+      "Sorting Contact List",
+      "Copy Contact",
+      "Change ringer Volume Separately",
+      "No background in emoji + bigger emoji",
+      "Pin Message Top"
     ],
     "feature_in_progress": [
       "Enter to Call",
-      "Ability to Call with Regex",
-      "Resize the application"
+      "Resize the application",
+      "Change ringer Volume Separately",
+      "Copy Text Message",
+      "DND in App",
+      "Sorting Contact List",
+      "Copy Contact"
     ]
   }
