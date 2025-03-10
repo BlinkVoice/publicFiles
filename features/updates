@@ -1,38 +1,27 @@
 {
     "updates": [
-      "Create Group Chat",
-      "Update Group Chat",
-      "Updated Avatar UI",
-      "Call from Group Chat"
+      "DND Mode",
+      "Feedback Page",
+      "Filter Call History",
+      "Add, Edit, Delete Contact",
+      "Search in conversation",
+      "Pin Conversation to Top",
+      "Select multiple conversation",
+      "Larger emoji in conversation",
+      "DTMF from Keyboard",
+      "Letters in Dialpad"
       
     ],
     "features": [
-      "Enter to Call",
-      "Ability to Call with Regex",
-      "Copy Paste with right click",
-      "Resize the application",
-      "Always on Top",
-      "Change ringer Volume Separately",
-      "Search in Messaging",
-      "Multiple Selection in Messages",
-      "Add Contact and Edit Contact",
-      "Copy Text Messages",
-      "Ignore Call in Notification",
-      "DND in App",
-      "Google Meet Issue",
-      "Sorting Contact List",
-      "Copy Contact",
-      "Change ringer Volume Separately",
-      "No background in emoji + bigger emoji",
-      "Pin Message Top"
+      "Quick reply from message Session Items",
+      "Listen Whisper Barge",
+      "Ocassional Logout",
+      "Reject Call with Message",
+      "Audio message - Record and Send"
+
     ],
     "feature_in_progress": [
-      "Enter to Call",
-      "Resize the application",
-      "Change ringer Volume Separately",
-      "Copy Text Message",
-      "DND in App",
-      "Sorting Contact List",
-      "Copy Contact"
+      "Missed Call Count",
+      "Stable Performance"
     ]
   }
