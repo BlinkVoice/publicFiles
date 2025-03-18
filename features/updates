@@ -22,6 +22,8 @@
     ],
     "feature_in_progress": [
       "Missed Call Count",
-      "Stable Performance"
+      "Stable Performance",
+      "Spell Checker",
+      "Right-Click Paste"
     ]
   }
