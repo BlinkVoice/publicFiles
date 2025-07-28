@@ -1,15 +1,7 @@
 {
     "updates": [
-      "DND Mode",
-      "Feedback Page",
-      "Filter Call History",
-      "Add, Edit, Delete Contact",
-      "Search in conversation",
-      "Pin Conversation to Top",
-      "Select multiple conversation",
-      "Larger emoji in conversation",
-      "DTMF from Keyboard",
-      "Letters in Dialpad"
+      "Add Contact from Call History",
+      "Add Contact from Message"
       
     ],
     "features": [
@@ -21,9 +13,7 @@
 
     ],
     "feature_in_progress": [
-      "Missed Call Count",
-      "Stable Performance",
-      "Spell Checker",
-      "Right-Click Paste"
+      "AI Call Assistant",
+      "Call Analytics Dashboard"
     ]
   }
