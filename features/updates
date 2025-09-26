@@ -1,8 +1,7 @@
 {
     "updates": [
-      "Add Contact from Call History",
-      "Add Contact from Message"
-      
+      "User Analytics Dashboard",
+      "Team Analytics Dashboard"
     ],
     "features": [
       "Quick reply from message Session Items",
@@ -14,6 +13,5 @@
     ],
     "feature_in_progress": [
       "AI Call Assistant",
-      "Call Analytics Dashboard"
     ]
   }
